@@ -5,7 +5,7 @@
             "ID": "babyypos",
             "Name": "BabyyPOS",
             "Title": "BabyyPOS: A Basic Server-Client Point-of-Sale system",
-            "Link": "https://github.com/Z0mbie001/BabyyPos",
+            "Link": "https://github.com/babeyjack/BabyyPos",
             "PageLink": "?proj=babyypos",
             "Details":
             {
@@ -93,7 +93,7 @@
             "ID": "telium",
             "Name": "Telium",
             "Title": "Telium: Alien Hide and Seek",
-            "Link" : "https://github.com/Z0mbie001/Telium",
+            "Link" : "https://github.com/babeyjack/Telium",
             "PageLink": "?proj=telium",
             "Details":
             {
@@ -122,7 +122,7 @@
             "ID": "2dplatformer",
             "Name": "2D Platformer",
             "Title": "2D Platformer: A basic 2D Side-Scrolling Adventrue",
-            "Link": "https://github.com/Z0mbie001/2DPlatformer",
+            "Link": "https://github.com/babeyjack/2DPlatformer",
             "PageLink": "?proj=2dplatformer",
             "Details":
             {
@@ -149,7 +149,7 @@
             "ID": "adventurestory",
             "Name": "Adventure Story",
             "Title": "Adventure Story: A 2D RPG with Turn Based Combat",
-            "Link": "https://github.com/Z0mbie001/AdventureStory",
+            "Link": "https://github.com/babeyjack/AdventureStory",
             "PageLink": "?proj=adventruestory",
             "Details": 
             {
@@ -177,7 +177,7 @@
             "ID": "scoreboardsys",
             "Name": "Scoreboard System",
             "Title": "Scoreboard System: A Web-based portal that tracks scores",
-            "Link": "https://github.com/Z0mbie001/Point-Score-Website",
+            "Link": "https://github.com/babeyjack/Point-Score-Website",
             "PageLink": "?proj=scoreboardsys",
             "Details": 
             {
@@ -238,7 +238,7 @@
             "ID": "personalwebsite",
             "Name": "Personal Website",
             "Title": "Personal Website: A website to display my CV and list my projects",
-            "Link": "https://github.com/Z0mbie001/z0mbie001.github.io",
+            "Link": "https://github.com/babeyjack/babeyjack.github.io",
             "PageLink": "?proj=personalwebsite",
             "Details": 
             {
@@ -271,7 +271,7 @@
             "ID": "financeplanner",
             "Name": "Finance Planner",
             "Title": "Finance Planner: An Excel Spreadsheet to help track budgets and expenses",
-            "Link": "https://github.com/Z0mbie001/Excel-Yearly-Budget/tree/v1.0.0",
+            "Link": "https://github.com/babeyjack/Excel-Yearly-Budget/tree/v1.0.0",
             "PageLink": "?proj=financeplanner",
             "Details": 
             {
@@ -326,7 +326,7 @@
             "ID": "songgame",
             "Name": "Song Game",
             "Title": "Song Game: A Python game where you are scored on how many song names you know",
-            "Link": "https://github.com/Z0mbie001/song-game/tree/main",
+            "Link": "https://github.com/babeyjack/song-game/tree/main",
             "PageLink": "?proj=songgame",
             "Details":
             {
@@ -354,7 +354,7 @@
             "ID": "barcode",
             "Name": "Barcode Scanner",
             "Title": "Barcode Scanner: A Python tool to check barcodes and manage stock",
-            "Link": "https://github.com/Z0mbie001/barcode-scanner",
+            "Link": "https://github.com/babeyjack/barcode-scanner",
             "PageLink": "?proj=barcode",
             "Details": 
             {
