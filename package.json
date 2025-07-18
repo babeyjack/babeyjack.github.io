@@ -1,0 +1,25 @@
+{
+  "name": "jackbabey.com",
+  "version": "2.0.0",
+  "description": "This is the personal website of Jack Babey, it features a professional design, full CV, list of projects and someother secrets.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babeyjack/babeyjack.github.io.git"
+  },
+  "author": "Jack Babey",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/babeyjack/babeyjack.github.io/issues"
+  },
+  "homepage": "https://github.com/babeyjack/babeyjack.github.io#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
