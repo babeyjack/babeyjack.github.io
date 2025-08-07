@@ -212,7 +212,7 @@
             "ModuleName": "Software Engineering Group Project",
             "ModuleCode": "COMP2002",
             "Credits": "20",
-            "Score": "Pending",
+            "Score": "72%",
             "Semester": "0",
             "Convenors": 
             [
@@ -234,7 +234,7 @@
             "ModuleName": "Operating Systems & Concurrency",
             "ModuleCode": "COMP2007",
             "Credits": "20",
-            "Score": "Pending",
+            "Score": "67%",
             "Semester": "1",
             "Convenors": 
             [
@@ -258,7 +258,7 @@
             "ModuleName": "Developing Maintainable Software",
             "ModuleCode": "COMP2013",
             "Credits": "20",
-            "Score": "Pending",
+            "Score": "69%",
             "Semester": "1",
             "Convenors": 
             [
@@ -282,7 +282,7 @@
             "ModuleName": "Introduction to Formal Reasoning",
             "ModuleCode": "COMP20065",
             "Credits": "10",
-            "Score": "Pending",
+            "Score": "79%",
             "Semester": "1",
             "Convenors": 
             [
@@ -296,6 +296,96 @@
                 "This module covers a basic introduction to formal reasoning and proofs, with applications in program verification and Mathematics.",
                 "We use and interactive proof system called Lean which allows us to make statements and verify that what we have proposed is correct.",
                 "This module also helps develop skills in informal reasoning. It covers propositional logic, classical principles, predicate logic, the theories of Booleans, natural numbers, lists and trees, and the verification of simple algorithms."
+            ]
+        },
+        {
+            "ModuleName": "Software Specification",
+            "ModuleCode": "COMP2010",
+            "Credits": "10",
+            "Score": "79%",
+            "Semester": "2",
+            "Convenors": 
+            [
+                {
+                    "Name": "",
+                    "Link": ""
+                }
+            ],
+            "Description": 
+            [
+                ""
+            ]
+        }, 
+        {
+            "ModuleName": "Languages and Computation",
+            "ModuleCode": "COMP2012",
+            "Credits": "10",
+            "Score": "70%",
+            "Semester": "2",
+            "Convenors": 
+            [
+                {
+                    "Name": "",
+                    "Link": ""
+                }
+            ],
+            "Description": 
+            [
+                ""
+            ]
+        },
+        {
+            "ModuleName": "Distributed Systems",
+            "ModuleCode": "COMP2014",
+            "Credits": "10",
+            "Score": "66%",
+            "Semester": "2",
+            "Convenors": 
+            [
+                {
+                    "Name": "",
+                    "Link": ""
+                }
+            ],
+            "Description": 
+            [
+                ""
+            ]
+        },
+        {
+            "ModuleName": "Algorithms, Data Structures, and Efficiency",
+            "ModuleCode": "COMP2054",
+            "Credits": "10",
+            "Score": "77%",
+            "Semester": "2",
+            "Convenors": 
+            [
+                {
+                    "Name": "",
+                    "Link": ""
+                }
+            ],
+            "Description": 
+            [
+                ""
+            ]
+        },
+        {
+            "ModuleName": "Introduction to Smart Things and Robotics",
+            "ModuleCode": "COMP2064",
+            "Credits": "10",
+            "Score": "67",
+            "Semester": "2",
+            "Convenors": 
+            [
+                {
+                    "Name": "",
+                    "Link": ""
+                }
+            ],
+            "Description": 
+            [
+                ""
             ]
         }
     ],

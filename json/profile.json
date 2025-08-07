@@ -7,8 +7,8 @@
             [
                 "2D Platformer Programming Course (28 June 2019)",
                 "2D RPG Programming Course (17 August 2022)",
+                "Learn Cloud Computing | AWS Cloud Practitioner CLF-C02 (7 Feb 2025)",
                 "C++ Programming Course (Ongoing)",
-                "Learn Cloud Computing | AWS Cloud Practitioner CLF-C02 (Ongoing)",
                 "Docker & Kubernetes: The Practical Guide (Ongoing)"
             ]
         },
@@ -218,7 +218,7 @@
             [
                 {
                     "RoleTitle": "Outdoor Activity Instructor",
-                    "RoleDates": "June 2022 - September 2024",
+                    "RoleDates": "June 2022 - June 2025",
                     "Details":
                     [
                         "Teaching adults and young people how to use the saftey system correctly. Supervising and assiting them through the remainder of the course. This meant dealing with unexpected and sometimes dangerous situations, which I always approached logically and with safety principles in mind. ",
@@ -296,8 +296,25 @@
             "Roles":
             [
                 {
+                    "RoleTitle": "Gear Secretry",
+                    "RoleDates": "September 2025 - Onwards",
+                    "Details":
+                    [
+                        "Teaching memebers of the climbing society how to use gear safely and correctly. I'm in charge of managing the club shared gear, ensuring it is in a usable condition and to facilitatie the renting of equipment by members of the club.",
+                        "Customer Service",
+                        "Team Work",
+                        "Safeguarding",
+                        "Organisation",
+                        "Problem Solving",
+                        "Communication Skills",
+                        "Accuracy & Precision",
+                        "Knowledge of Saftey Systems and Procedures",
+                        "Working at Height"
+                    ]
+                },
+                {
                     "RoleTitle": "Training Secretary",
-                    "RoleDates": "September 2023 - Onwards",
+                    "RoleDates": "September 2024 - September 2025",
                     "Details":
                     [
                         "Teaching members of the climbing society how to climb effectively. I'm in charge of all training across the club, focusing mainly on 3 sessions: Learn to climb, Learn to lead, and technique. These 3 types of session allow me to educate the club in all the aspects they need to become independent climbers.",
@@ -326,6 +343,7 @@
             [
                 "I have competed at a National Level",
                 "I have coached clients along side ex-GB head coaches",
+                "I have helped belay and coach a GB Lead climber",
                 "I have been climbing since 2011",
                 "I have also completed multi-pitch climbs up Tryfan in North Wales, among others",
                 "I have nationally recognised coaching qualifications"
