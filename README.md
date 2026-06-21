@@ -1,6 +1,6 @@
 # Jack's Portfolio - Vite + Bootstrap
 
-A modern, responsive portfolio website showcasing your CV, qualifications, and programming projects. Built with Vite for fast development and production builds, and Bootstrap for professional styling.
+A modern, responsive portfolio website showcasing my CV, qualifications, and programming projects. Built with Vite for fast development and production builds, and Bootstrap for professional styling.
 
 ## 🚀 Features
 
