@@ -1,7 +1,6 @@
 json/uniProjectLinks.json
 
 # Vite
-node_modules/
 dist-ssr/
 *.local
 
