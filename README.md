@@ -149,15 +149,3 @@ The `dist/` folder contains your production-ready website and can be deployed to
 ## 📝 License
 
 See [LICENSE](LICENSE) file for details.
-
-## ✨ Next Steps
-
-1. ✅ Development setup complete
-2. ✅ Build system configured
-3. Update `public/json/profile.json` and `public/json/projects.json` with your latest information
-4. Customize colors and styling in `src/style.css`
-5. Deploy to your hosting platform
-
----
-
-**Happy coding! 🚀**
