@@ -22,12 +22,12 @@ export function createExperiencePage(data) {
         <h5>${exp.Title}</h5>
         <ul class="list-unstyled">
     `
-    exp.Roles.forEach(detail => {
-      html += `<l class="experience-detail"> <div class=mb-2> ${detail.RoleTitle} </div>
-            <div class=small text-muted> ${detail.RoleDates} </div>
+    exp.Roles.forEach(role => {
+      html += `<l class="experience-detail"> <div class=mb-2> ${role.RoleTitle} </div>
+            <div class=small text-muted> ${role.RoleDates} </div>
             <ul class="list-unstyled">
             `
-      detail.RoleDetails.forEach(roleDetail => {
+      role.Details.forEach(roleDetail => {
         html += `<li class="experience-detail">✓ ${roleDetail}</li>`
       })
 
