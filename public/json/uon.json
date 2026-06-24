@@ -1,14 +1,12 @@
 {
-    "YearOne":
-    [
+    "YearOne": [
         {
             "ModuleName": "Mathematics for Computer Scientists",
             "ModuleCode": "COMP1001",
             "Credits": 10,
             "Score": "75%",
             "Semester": 1,
-            "Convenors":
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Tim Muller",
                     "Link": "http://www.tjcmuller.com/"
@@ -18,8 +16,7 @@
                     "Link": "https://www.cs.nott.ac.uk/~pszja/"
                 }
             ],
-            "Description":
-            [
+            "Description": [
                 "This module covered Propositional and Predicate Logic, Basic Proofs, Set Theory, Relations and Functions, Induction, Pigeon Hole Principle, Number Theory and Graph Theory. It gave us a basic understanding of how to use Logic, and how to apply it to a computational situation."
             ]
         },
@@ -29,8 +26,7 @@
             "Credits": 0,
             "Score": "N/A",
             "Semester": 0,
-            "Convenors":
-            [
+            "Convenors": [
                 {
                     "Name": "Jeremie Clos",
                     "Link": "https://jclos.ovh/"
@@ -40,8 +36,7 @@
                     "Link": "/404.html"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module was focused on building study skills and professional communication, along with other small topics to assist in our learning."
             ]
         },
@@ -51,15 +46,13 @@
             "Credits": 10,
             "Score": "82%",
             "Semester": 2,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Max Wilson",
                     "Link": "https://www.cs.nott.ac.uk/~pszmw/"
                 }
             ],
-            "Description":
-            [
+            "Description": [
                 "This module taught the basics of Software Design and Development, through the practical application of these skills. We would first cover topics in theory, and then, through 2 Large Courseworks, apply these skills.",
                 "This module also covered more advanced version control using GitHub and GitLab, along with Markdown formatting and best practices for programming and working in teams."
             ]
@@ -70,8 +63,7 @@
             "Credits": 10,
             "Score": "77%",
             "Semester": 2,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Nazia Hameed",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/nazia.hameed"
@@ -81,8 +73,7 @@
                     "Link": "https://kaixu.me/"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module covered Databases and how to interact with them using websites. It focused on relational databases and different ways to display and manipulate them. We mainly used SQLite and PostgreSQL."
             ]
         },
@@ -92,8 +83,7 @@
             "Credits": 20,
             "Score": "97%",
             "Semester": 1,
-            "Convenors":
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Jamie Twycross",
                     "Link": "https://www.cs.nott.ac.uk/~pszjpt/"
@@ -103,8 +93,7 @@
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/marjahan.begum"
                 }
             ],
-            "Description":
-            [
+            "Description": [
                 "This module taught programming basics using the C programming language. It included I/O, file manipulation, data-types and structures and recursion."
             ]
         },
@@ -114,15 +103,13 @@
             "Credits": 20,
             "Score": "100%",
             "Semester": 1,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Steven Bagley",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/steven.bagley"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module taught how computers are programmed at the CPU level, using Assembly Code. For this module we used the ARM assembly language. This allowed us to gain a high level of understanding about how complex structures, presented in High-Level Languages can be broken down into storing, retrieving and manipulating individual bytes.",
                 "We also learnt about networking and how this allows computers to communicate. Looking at the challenges faced when networking was first being developed and the systems that we used currently to create stable and secure connections between different devices."
             ]
@@ -133,15 +120,13 @@
             "Credits": 10,
             "Score": "98%",
             "Semester": 1,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Steven Bagley",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/steven.bagley"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module taught how computers are built from physical components and logic circuits. It covered Arithmetic and Digital Logic, State Machines and different layers of abstraction. We used the Hardware Descriptor Langauge, to describe logic circuits, and used an emulator (Nand-2-Tetris) to see the effects of the code."
             ]
         },
@@ -151,15 +136,13 @@
             "Credits": 10,
             "Score": "72%",
             "Semester": 2,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Prof Rong Qu",
                     "Link": "https://www.cs.nott.ac.uk/~pszrq/"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module focused on learning the basics of Machine Learning. This included data pre-processing, Supervised and Un-supervised Learning, Artificial Neural Networks, Regression Models, Search Tree's and Natural Langauge Processing. We learnt how each of these are used in real situations and how Artificial Intelligence can be split up into many different sections or types."
             ]
         },
@@ -169,8 +152,7 @@
             "Credits": 20,
             "Score": "74%",
             "Semester": 2,
-            "Convenors":
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Jason Atkin",
                     "Link": "https://www.cs.nott.ac.uk/~pszja/"
@@ -180,8 +162,7 @@
                     "Link": "https://www.cs.nott.ac.uk/~pszgmh/"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module was split into two sections, both focused on different Programming Paradigms. We focused on Object-Oriented Programming and Functional Programming, using Java and Haskell respectively.",
                 "In the Object-Oriented side of the course, we learnt about different object oriented methods, and design patterns. These were then applied in courseworks which allowed us to show our understanding by using Java code to create Object-Oriented Programs.",
                 "In the Functional Programming side of the course, we learnt about functional programming and how it differs from traditional High-Level languages. We used Haskell to demonstrate this, and reinforeced our learning through weekly courseworks which allowed us to get hands on experience with a different style of programming"
@@ -193,36 +174,31 @@
             "Credits": 10,
             "Score": "72%",
             "Semester": 1,
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Ulrik Buchholtz",
                     "Link": "https://ulrikbuchholtz.dk/"
                 }
             ],
-            "Description":
-            [
-                "This module covered Linear Algebra, and how it can be used with computer science. It demonstrated how many different problems can be displayed using matrices and then manipulated to show data patterns, and solve an issue. We also used Python to create a program which takes a matrix input, and outputs a Row-Reduced Echelon Form version of the same matrix."   
+            "Description": [
+                "This module covered Linear Algebra, and how it can be used with computer science. It demonstrated how many different problems can be displayed using matrices and then manipulated to show data patterns, and solve an issue. We also used Python to create a program which takes a matrix input, and outputs a Row-Reduced Echelon Form version of the same matrix."
             ]
         }
     ],
-    "YearTwo":
-    [
+    "YearTwo": [
         {
             "ModuleName": "Software Engineering Group Project",
             "ModuleCode": "COMP2002",
             "Credits": "20",
             "Score": "72%",
             "Semester": "0",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Geert De Maere",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/geert.de_maere"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "A group project to bring together the theory that was taught in Year One.",
                 "In this module we work together in randomly assigned teams to produce a piece of software for an industry client.",
                 "This could include creating software specifications and requirements based off of the clients needs, prototyping, development, testing and delivery.",
@@ -236,8 +212,7 @@
             "Credits": "20",
             "Score": "67%",
             "Semester": "1",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Geert De Maere",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/geert.de_maere"
@@ -247,8 +222,7 @@
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/dan.marsden"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module focuses on Opertating Systems, the services it provides programmers and the CPU, as well as how to implement multi-core and multi-threading when programming in C.",
                 "This will allow us to better understand what happens when we interact with the Operating System, and why we have to program in a specific way.",
                 "It will also help us to develop software which can make better use of the computer's full resoruces."
@@ -260,8 +234,7 @@
             "Credits": "20",
             "Score": "69%",
             "Semester": "1",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Dr Marjahan Begum",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/marjahan.begum"
@@ -271,11 +244,10 @@
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/ian.knight2"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module focuses on teaching us how to develop software that can be easily maintained and improved.",
                 "This will enable us to produce better quaility software which can be reviewed, modified, fixed and improved by others easily",
-                "It also highlights the importance of good quality code in reducing the amount of errors and time to create a working piece of software."   
+                "It also highlights the importance of good quality code in reducing the amount of errors and time to create a working piece of software."
             ]
         },
         {
@@ -284,15 +256,13 @@
             "Credits": "10",
             "Score": "79%",
             "Semester": "1",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "Prof Thorsten Altenkirch",
                     "Link": "https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch"
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 "This module covers a basic introduction to formal reasoning and proofs, with applications in program verification and Mathematics.",
                 "We use and interactive proof system called Lean which allows us to make statements and verify that what we have proposed is correct.",
                 "This module also helps develop skills in informal reasoning. It covers propositional logic, classical principles, predicate logic, the theories of Booleans, natural numbers, lists and trees, and the verification of simple algorithms."
@@ -304,33 +274,29 @@
             "Credits": "10",
             "Score": "79%",
             "Semester": "2",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "",
                     "Link": ""
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 ""
             ]
-        }, 
+        },
         {
             "ModuleName": "Languages and Computation",
             "ModuleCode": "COMP2012",
             "Credits": "10",
             "Score": "70%",
             "Semester": "2",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "",
                     "Link": ""
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 ""
             ]
         },
@@ -340,15 +306,13 @@
             "Credits": "10",
             "Score": "66%",
             "Semester": "2",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "",
                     "Link": ""
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 ""
             ]
         },
@@ -358,15 +322,13 @@
             "Credits": "10",
             "Score": "77%",
             "Semester": "2",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "",
                     "Link": ""
                 }
             ],
-            "Description": 
-            [
+            "Description": [
                 ""
             ]
         },
@@ -376,36 +338,13 @@
             "Credits": "10",
             "Score": "67",
             "Semester": "2",
-            "Convenors": 
-            [
+            "Convenors": [
                 {
                     "Name": "",
                     "Link": ""
                 }
             ],
-            "Description": 
-            [
-                ""
-            ]
-        }
-    ],
-    "Template":
-    [
-        {
-            "ModuleName": "",
-            "ModuleCode": "",
-            "Credits": "",
-            "Score": "",
-            "Semester": "",
-            "Convenors": 
-            [
-                {
-                    "Name": "",
-                    "Link": ""
-                }
-            ],
-            "Description": 
-            [
+            "Description": [
                 ""
             ]
         }

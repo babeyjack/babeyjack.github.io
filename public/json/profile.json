@@ -1,10 +1,8 @@
 {
-    "Qualifications": 
-    [
+    "Qualifications": [
         {
             "Title": "Udemy Online Classroom",
-            "Details":
-            [
+            "Details": [
                 "2D Platformer Programming Course (28 June 2019)",
                 "2D RPG Programming Course (17 August 2022)",
                 "Learn Cloud Computing | AWS Cloud Practitioner CLF-C02 (7 Feb 2025)",
@@ -14,8 +12,7 @@
         },
         {
             "Title": "Mountain Training",
-            "Details": 
-            [
+            "Details": [
                 "Foundation Coach Training (10 September 2021)",
                 "Climbing Wall Instructor Training (20 Febuary 2022)",
                 "Climbing Wall Instructor Award (24 July 2023)",
@@ -25,15 +22,13 @@
         },
         {
             "Title": "Royal Life Saving Society UK",
-            "Details":
-            [
+            "Details": [
                 "First Aid at Work (expr. 19 April 2026)"
             ]
         },
         {
             "Title": "NICAS",
-            "Details":
-            [
+            "Details": [
                 "NICAS Level 1 (28 March 2015)",
                 "NICAS Level 2 (10 December 2015)",
                 "NICAS Level 3 (9 September 2016)",
@@ -42,29 +37,25 @@
         },
         {
             "Title": "National Citizen Service",
-            "Details":
-            [
+            "Details": [
                 "2-Week Course incl. Social Action Project (Summer 2021)"
             ]
         },
         {
             "Title": "Uptree",
-            "Details":
-            [
+            "Details": [
                 "2-hour Virtual Work Experience with ARM (2021)"
             ]
         },
         {
             "Title": "Taekwondo (2010 - 2016)",
-            "Details":
-            [
+            "Details": [
                 "Blue Belt, Brown Tabs (3rd Kup)"
             ]
         },
         {
             "Title": "Scouting Association (2010 - 2018)",
-            "Details":
-            [
+            "Details": [
                 "Bronze Award",
                 "Silver Award",
                 "Sixer in both Cubs and Scouts"
@@ -72,8 +63,7 @@
         },
         {
             "Title": "Litcham School (2015 - 2020)",
-            "Details":
-            [
+            "Details": [
                 "GCSE English Literature (7)",
                 "GCSE English Language (7)",
                 "GCSE Mathematics (9)",
@@ -87,13 +77,11 @@
                 "Level 2 Information Technology (95% Avg)",
                 "GCSE Computer Science (9)",
                 "GCSE Geography (7)"
-
             ]
         },
         {
             "Title": "Wymondham College (2021 - 2023)",
-            "Details":
-            [
+            "Details": [
                 "A-Level Computer Science (A)",
                 "A-Level Mathematics (A)",
                 "A-Level Physics (A)",
@@ -104,23 +92,19 @@
         },
         {
             "Title": "University of Nottingham (2023 - Onwards)",
-            "Details":
-            [
-                "BSc Computer Science with Year in Industry (Ongoing) (<a href='/pages/uonug.html'>Details</a>)"
+            "Details": [
+                "BSc Computer Science with Year in Industry (Ongoing)"
             ]
         }
     ],
-    "Experience":
-    [
+    "Experience": [
         {
             "Title": "Fountain of Life Church, Ashill",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Volunteer Sound Engineer",
                     "RoleDates": "March 2017 - Onwards",
-                    "Details":
-                    [
+                    "Details": [
                         "Live audio mixing in church. Understanding the unique properties of the building to be able to create a better sound for everyone listening. Simultaneously creating a mix for front of house, a live stream, and in-ear monitors.",
                         "Live Audio Mixing",
                         "Allen & Heath QU-32",
@@ -140,13 +124,11 @@
         },
         {
             "Title": "Boost Climbing",
-            "Roles": 
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Volunteer Climbing Instructor",
                     "RoleDates": "September 2017 - Onwards",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching adults and young people how to climb. Using the most recent safety advice to ensure that they stay safe. I teach them skills like curiosity, critical thinking and perserverance which help them on and off of the climbing wall.",
                         "Customer Service",
                         "Team Work",
@@ -165,13 +147,11 @@
         },
         {
             "Title": "Sound Stage Systems",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Sound Engineer",
                     "RoleDates": "July 2021",
-                    "Details":
-                    [
+                    "Details": [
                         "Live audio mixing in a professional enviornment. Working for a team with over 35 years experience. Ensuring that the quality of the audio isn't distracting to the listener and making the performers sound their best on stage.",
                         "Live Audio Mixing",
                         "Soundcraft Si Expression 3",
@@ -190,13 +170,11 @@
         },
         {
             "Title": "ROARR! Dinosaur Adventure",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Seasonal Crew Member - Food & Beverages",
                     "RoleDates": "September 2021 - June 2022",
-                    "Details":
-                    [
+                    "Details": [
                         "Serving customers food and beverages, while ensuring a clean, safe and organised environment. Helping the chef where required and using my expert knowledge of the park and the products to help customers.",
                         "Customer Service",
                         "Communication Skills",
@@ -214,13 +192,11 @@
         },
         {
             "Title": "Go Ape",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Outdoor Activity Instructor",
                     "RoleDates": "June 2022 - June 2025",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching adults and young people how to use the saftey system correctly. Supervising and assiting them through the remainder of the course. This meant dealing with unexpected and sometimes dangerous situations, which I always approached logically and with safety principles in mind. ",
                         "Working at height",
                         "Customer Service",
@@ -241,13 +217,11 @@
         },
         {
             "Title": "University of Nottingham",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Casual Climbing Instructor",
                     "RoleDates": "September 2023 - Onwards",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching adults and young people how to climb. Using the most recent safety advice to ensure that they stay safe. I teach them skills like curiosity, critical thinking and perserverance which help them on and off of the climbing wall.",
                         "Customer Service",
                         "Team Work",
@@ -267,13 +241,11 @@
         },
         {
             "Title": "Nottingham Climbing Centre",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Climbing Instructor",
                     "RoleDates": "September 2023 - Onwards",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching adults and young people how to climb. Using the most recent safety advice to ensure that they stay safe. I teach them skills like curiosity, critical thinking and perserverance which help them on and off of the climbing wall.",
                         "Customer Service",
                         "Team Work",
@@ -293,13 +265,11 @@
         },
         {
             "Title": "University of Nottingham Climbing Club",
-            "Roles":
-            [
+            "Roles": [
                 {
                     "RoleTitle": "Gear Secretry",
                     "RoleDates": "September 2025 - Onwards",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching memebers of the climbing society how to use gear safely and correctly. I'm in charge of managing the club shared gear, ensuring it is in a usable condition and to facilitatie the renting of equipment by members of the club.",
                         "Customer Service",
                         "Team Work",
@@ -315,8 +285,7 @@
                 {
                     "RoleTitle": "Training Secretary",
                     "RoleDates": "September 2024 - September 2025",
-                    "Details":
-                    [
+                    "Details": [
                         "Teaching members of the climbing society how to climb effectively. I'm in charge of all training across the club, focusing mainly on 3 sessions: Learn to climb, Learn to lead, and technique. These 3 types of session allow me to educate the club in all the aspects they need to become independent climbers.",
                         "Customer Service",
                         "Team Work",
@@ -335,12 +304,10 @@
             ]
         }
     ],
-    "Hobbies":
-    [
+    "Hobbies": [
         {
             "Title": "Climbing",
-            "Details":
-            [
+            "Details": [
                 "I have competed at a National Level",
                 "I have coached clients along side ex-GB head coaches",
                 "I have helped belay and coach a GB Lead climber",
@@ -350,9 +317,8 @@
             ]
         },
         {
-            "Title": "Computer Science",                
-            "Details":
-            [
+            "Title": "Computer Science",
+            "Details": [
                 "I was part of a regional team in the Thorpe Park Programming Project, and made it to the national finals in London",
                 "I have created many game prototypes using Unity Engine and C#",
                 "I have 2 Raspberry Pi's and an Arduino and use them for physical programming, such as PiHole and PiVPN",
@@ -365,8 +331,7 @@
         },
         {
             "Title": "Sound Engineering",
-            "Details":
-            [
+            "Details": [
                 "I have practiced Sound Engineering since 2017",
                 "I regularly mixed live for over 200 people, including using livestreams, until 2023"
             ]

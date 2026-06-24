@@ -1,6 +1,9 @@
 json/uniProjectLinks.json
 
 # Vite
+dist/
+*index.html
+.history/system
 dist-ssr/
 *.local
 
