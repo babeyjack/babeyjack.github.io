@@ -1,6 +1,8 @@
 import { createNav } from './components/navbar.js'
 import { createHero } from './components/hero.js'
-import { createProfilePage } from './pages/profile.js'
+import { createQualificationsPage } from './pages/qualifications.js'
+import { createExperiencePage } from './pages/experience.js'
+import { createHobbiesPage } from './pages/hobbies.js'
 import { createProjectsPage } from './pages/projects.js'
 import { createUniversityPage } from './pages/university.js'
 import { loadJSON } from './utils/dataLoader.js'
@@ -40,8 +42,10 @@ export async function initApp(container) {
     // Create navigation
     const navItems = [
         { label: 'Home', id: 'home' },
-        { label: 'Profile', id: 'profile' },
+        { label: 'Qualifications', id: 'qualifications' },
         { label: 'Projects', id: 'projects' },
+        { label: 'Experience', id: 'experience' },
+        { label: 'Hobbies', id: 'hobbies' },
         { label: 'University', id: 'university' }
     ]
 
@@ -75,10 +79,14 @@ function renderPage() {
 
     if (currentPage === 'home') {
         mainContent.appendChild(createHero())
-    } else if (currentPage === 'profile') {
-        mainContent.appendChild(createProfilePage(profileData))
+    } else if (currentPage === 'qualifications') {
+        mainContent.appendChild(createQualificationsPage(profileData))
     } else if (currentPage === 'projects') {
         mainContent.appendChild(createProjectsPage(projectsData))
+    } else if (currentPage === 'experience') {
+        mainContent.appendChild(createExperiencePage(profileData))
+    } else if (currentPage === 'hobbies') {
+        mainContent.appendChild(createHobbiesPage(profileData))
     } else if (currentPage === 'university') {
         mainContent.appendChild(createUniversityPage(universityData))
     }

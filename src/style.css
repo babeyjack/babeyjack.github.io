@@ -84,6 +84,46 @@ body {
     padding-left: 1rem;
 }
 
+.hobby-item {
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-left: 4px solid var(--primary-color);
+    border-radius: 4px;
+}
+
+.hobby-item h5 {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.hobby-detail {
+    color: #666;
+    margin: 0.25rem 0;
+    padding-left: 1rem;
+}
+
+.experience-item {
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-left: 4px solid var(--primary-color);
+    border-radius: 4px;
+}
+
+.experience-item h5 {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.experience-detail {
+    color: #666;
+    margin: 0.25rem 0;
+    padding-left: 1rem;
+}
+
 .project-card {
     background: white;
     border-radius: 8px;

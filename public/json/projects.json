@@ -12,7 +12,9 @@
                 "GameEngine": "Unity Engine",
                 "ProgLang": [
                     "C#",
-                    "SQL"
+                    "SQL",
+                    "Unity Game Engine",
+                    "TCP Sockets"
                 ],
                 "Version": "v1.0.0"
             },
@@ -37,7 +39,8 @@
                 "Platforms": "Windows",
                 "GameEngine": "",
                 "ProgLang": [
-                    "C"
+                    "C",
+                    "TCP Sockets"
                 ],
                 "Version": "v1.0.0"
             },
@@ -80,7 +83,8 @@
                 "Platforms": "Windows",
                 "GameEngine": "Unity Engine",
                 "ProgLang": [
-                    "C#"
+                    "C#",
+                    "Unity Game Engine"
                 ],
                 "Version": "v1.0.0"
             },
@@ -103,7 +107,8 @@
                 "Platforms": "Windows",
                 "GameEngine": "Unity Engine",
                 "ProgLang": [
-                    "C#"
+                    "C#",
+                    "Unity Game Engine"
                 ],
                 "Version": "v1.0.0"
             },
@@ -124,7 +129,8 @@
                 "Platforms": "Windows",
                 "GameEngine": "Unity Engine",
                 "ProgLang": [
-                    "C#"
+                    "C#",
+                    "Unity Game Engine"
                 ],
                 "Version": "v1.0.0"
             },
@@ -193,14 +199,15 @@
             "Link": "https://github.com/babeyjack/babeyjack.github.io",
             "PageLink": "?proj=personalwebsite",
             "Details": {
-                "Updated": "5 August 2024",
+                "Updated": "24 June 2026",
                 "Platforms": "Universal",
                 "GameEngine": "",
                 "ProgLang": [
                     "HTML",
                     "CSS",
                     "JavaScript",
-                    "Typescript"
+                    "Typescript",
+                    "CI/CD"
                 ],
                 "Version": "v2.0.0"
             },
@@ -246,7 +253,8 @@
                 "Platforms": "Windows",
                 "GameEngine": "Unity Engine",
                 "ProgLang": [
-                    "C#"
+                    "C#",
+                    "Unity Game Engine"
                 ],
                 "Version": "No Release Yet"
             },
