@@ -28,7 +28,7 @@ export function createExperiencePage(data) {
             <ul class="list-unstyled">
             `
       role.Details.forEach(roleDetail => {
-        html += `<li class="experience-detail">✓ ${roleDetail}</li>`
+        html += `<li class="experience-detail"> ${roleDetail}</li>`
       })
 
       html += `</ul></li>`
