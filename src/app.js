@@ -30,7 +30,7 @@ export async function initApp(container) {
       <main id="main-content" class="flex-grow-1"></main>
       <footer class="footer mt-auto">
         <div class="container">
-          <p>&copy; 2024 Jack's Portfolio. All rights reserved.</p>
+          <p>&copy; 2026 Jack's Portfolio. All rights reserved.</p>
         </div>
       </footer>
     </div>

@@ -103,7 +103,7 @@
             "Roles": [
                 {
                     "RoleTitle": "Volunteer Sound Engineer",
-                    "RoleDates": "March 2017 - Onwards",
+                    "RoleDates": "March 2017 - September 2025",
                     "Details": [
                         "Live audio mixing in church. Understanding the unique properties of the building to be able to create a better sound for everyone listening. Simultaneously creating a mix for front of house, a live stream, and in-ear monitors.",
                         "Live Audio Mixing",
@@ -299,6 +299,27 @@
                         "Knowledge of Saftey Systems and Procedures",
                         "Group Management",
                         "Working at Height"
+                    ]
+                }
+            ]
+        },
+        {
+            "Title": "Keysight Technologies (Spirent Communications)",
+            "Roles": [
+                {
+                    "RoleTitle": "Software Placement Student",
+                    "RoleDates": "July 2025 - August 2026",
+                    "Details": [
+                        "Working in a team of 5 to develop a new product for the company. Using Agile methodology to manage the project and ensure that we are meeting our deadlines. Using C++ and Python to develop the software, and using Git to manage our codebase.",
+                        "Software Development",
+                        "Team Work",
+                        "Agile Methodology",
+                        "C++",
+                        "Python",
+                        "Git",
+                        "Problem Solving",
+                        "Communication Skills",
+                        "Organisation"
                     ]
                 }
             ]

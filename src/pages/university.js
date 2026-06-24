@@ -1,15 +1,15 @@
 export function createUniversityPage(data) {
-    const section = document.createElement('section')
-    section.className = 'py-5'
+  const section = document.createElement('section')
+  section.className = 'py-5'
 
-    if (!data) {
-        section.innerHTML = '<div class="container"><p>Loading university data...</p></div>'
-        return section
-    }
+  if (!data) {
+    section.innerHTML = '<div class="container"><p>Loading university data...</p></div>'
+    return section
+  }
 
-    const years = Object.keys(data)
+  const years = Object.keys(data)
 
-    let html = `
+  let html = `
     <div class="container">
       <div class="mb-5">
         <h1 class="mb-3">University of Nottingham</h1>
@@ -17,30 +17,30 @@ export function createUniversityPage(data) {
       </div>
   `
 
-    years.forEach(yearKey => {
-        const modules = data[yearKey]
-        const yearLabel = yearKey.replace(/([A-Z])/g, ' $1').trim()
+  years.forEach(yearKey => {
+    const modules = data[yearKey]
+    const yearLabel = yearKey.replace(/([A-Z])/g, ' $1').trim()
 
-        html += `
+    html += `
       <div class="mb-5">
         <h2 class="mb-4" style="border-bottom: 3px solid var(--primary-color); padding-bottom: 1rem; display: inline-block;">${yearLabel}</h2>
         <div class="row g-4">
     `
 
-        modules.forEach(module => {
-            const convenorsList = module.Convenors
-                .map(c => `<a href="${c.Link}" target="_blank" rel="noopener noreferrer" class="text-primary text-decoration-none">${c.Name}</a>`)
-                .join(', ')
+    modules.forEach(module => {
+      const convenorsList = module.Convenors
+        .map(c => `<a href="${c.Link}" target="_blank" rel="noopener noreferrer" class="text-primary text-decoration-none">${c.Name}</a>`)
+        .join(', ')
 
-            const scoreDisplay = module.Score !== 'N/A'
-                ? `<strong>Score:</strong> <span class="badge bg-success">${module.Score}</span>`
-                : '<strong>Score:</strong> <span class="text-muted">N/A</span>'
+      const scoreDisplay = module.Score !== 'N/A'
+        ? `<strong>Score:</strong> <span class="badge bg-success">${module.Score}</span>`
+        : '<strong>Score:</strong> <span class="text-muted">N/A</span>'
 
-            const semesterDisplay = module.Semester !== 0
-                ? `<strong>Semester:</strong> ${module.Semester}`
-                : '<strong>Type:</strong> Full Year'
+      const semesterDisplay = module.Semester !== "0"
+        ? `<strong>Semester:</strong> ${module.Semester}`
+        : '<strong>Type:</strong> Full Year'
 
-            html += `
+      html += `
         <div class="col-lg-6">
           <div class="card h-100 module-card">
             <div class="card-header bg-light">
@@ -66,18 +66,18 @@ export function createUniversityPage(data) {
           </div>
         </div>
       `
-        })
-
-        html += `
-        </div>
-      </div>
-    `
     })
 
     html += `
+        </div>
+      </div>
+    `
+  })
+
+  html += `
     </div>
   `
 
-    section.innerHTML = html
-    return section
+  section.innerHTML = html
+  return section
 }

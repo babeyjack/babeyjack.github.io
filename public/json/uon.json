@@ -276,12 +276,18 @@
             "Semester": "2",
             "Convenors": [
                 {
-                    "Name": "",
-                    "Link": ""
+                    "Name": "Dr Julie Greensmith",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/julie.greensmith"
+                },
+                {
+                    "Name": "Dr Matt Luckcuck",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/matt.luckcuck"
                 }
             ],
             "Description": [
-                ""
+                "This module builds on material presented in the Foundations of Software Engineering module and brings in new concepts around business analytics and formal specifications.",
+                "You will gain an understanding of the processes through which we can capture, analyse and document the properties a software-based system needs in order to be successfully deployed.",
+                "You will also learn how to use formal specification languages to describe the properties of a system and how to use model checking tools to verify that a system meets its specification."
             ]
         },
         {
@@ -292,12 +298,13 @@
             "Semester": "2",
             "Convenors": [
                 {
-                    "Name": "",
-                    "Link": ""
+                    "Name": "Prof Thorsten Altenkirch",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/thorsten.altenkirch"
                 }
             ],
             "Description": [
-                ""
+                "This module covers the theory of formal languages and automata, including regular expressions, context-free grammars, and Turing machines.",
+                "It explores the relationships between different classes of languages and their computational properties."
             ]
         },
         {
@@ -308,12 +315,13 @@
             "Semester": "2",
             "Convenors": [
                 {
-                    "Name": "",
-                    "Link": ""
+                    "Name": "Prof Chris Greenhalgh",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/chris.greenhalgh"
                 }
             ],
             "Description": [
-                ""
+                "This module covers the principles and practices of distributed systems, including communication protocols, synchronization, fault tolerance, and distributed algorithms.",
+                "It explores the challenges and techniques for designing and implementing distributed systems that can operate reliably and efficiently in a networked environment."
             ]
         },
         {
@@ -324,12 +332,13 @@
             "Semester": "2",
             "Convenors": [
                 {
-                    "Name": "",
-                    "Link": ""
+                    "Name": "Dr Andrew Parkes",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/andrew.parkes"
                 }
             ],
             "Description": [
-                ""
+                "This module covers the fundamentals of algorithm design and analysis, including sorting, searching, and graph algorithms.",
+                "It also introduces various data structures and their applications in solving computational problems."
             ]
         },
         {
@@ -340,12 +349,21 @@
             "Semester": "2",
             "Convenors": [
                 {
-                    "Name": "",
-                    "Link": ""
+                    "Name": "Prof Praminda Caleb-Solly",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/praminda.caleb-solly"
+                },
+                {
+                    "Name": "Dr Aly Magassouba",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/aly.magassouba"
+                },
+                {
+                    "Name": "Dr Liz Felton",
+                    "Link": "https://www.nottingham.ac.uk/computerscience/people/liz.felton"
                 }
             ],
             "Description": [
-                ""
+                "This module introduces the concepts and technologies behind smart things and robotics, including sensor networks, actuators, and control systems.",
+                "It explores the design and implementation of smart devices and robotic systems, as well as their applications in various domains such as healthcare, manufacturing, and home automation."
             ]
         }
     ]
