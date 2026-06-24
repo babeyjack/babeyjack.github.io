@@ -5,7 +5,7 @@ export function createHero() {
     const html = `
     <div class="container">
       <h1>Welcome to My Portfolio</h1>
-      <p>Full Stack Developer | Computer Science Graduate | Tech Enthusiast</p>
+      <p>Multi-talented Developer | Computer Science Student | Tech Enthusiast</p>
       <div>
         <button id="profile-btn" class="btn btn-light btn-lg me-3">View Profile</button>
         <button id="projects-btn" class="btn btn-outline-light btn-lg">See Projects</button>
